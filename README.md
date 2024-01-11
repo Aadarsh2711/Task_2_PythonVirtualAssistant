@@ -1,1 +1,3 @@
 # Task_2_PythonVirtualAssistant
+In this Project I created a Python Virtual Assistant just like Alexa/Siri which answers basic
+questions like What is the Date,Time,give information about any personality from wikipedia,plays youtube songs,etc...
